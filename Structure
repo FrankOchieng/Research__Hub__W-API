@@ -1,0 +1,10 @@
+research-collab-hub/
+├── user-service/
+├── project-service/
+├── file-service/
+├── chat-service/
+├── notification-service/
+├── api-gateway/
+├── config-server/
+├── discovery-server/
+└── docker-compose.yml
